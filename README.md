@@ -16,7 +16,7 @@ Download the test ROM here [RealityTest](https://github.com/LimitedRunGames-Tech
 ### Castlevania (NES -> SNES) Port
 [Castlevania](https://archive.org/details/castlevania-snes/)
 ### Star Fox – Shindou Edition (SNES) Romhack
-[Star Fox Shindou](https://romhackplaza.org/romhacks/star-fox-shindou-edition-snes/)
+[Star Fox](https://romhackplaza.org/romhacks/star-fox-shindou-edition-snes/)
 ### Super Mario Kart – Rumble Version (SNES) Romhack
 [Super Mario Kart](https://romhackplaza.org/romhacks/super-mario-kart-rumble-version-snes/)
 ### Mike Tyson's Punch Out!! SNES
